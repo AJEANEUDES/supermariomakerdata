@@ -1,0 +1,774 @@
+{
+  "summary": {
+    "totalCourses": 100,
+    "difficultyStats": {
+      "mean": 0,
+      "median": 0,
+      "stdDev": 0,
+      "min": null,
+      "max": null,
+      "q1": null,
+      "q3": null
+    },
+    "engagementStats": {
+      "mean": 76.86655624344112,
+      "median": 82.89927907219726,
+      "stdDev": 20.49875065993767,
+      "min": 10.091743119266056,
+      "max": 100,
+      "q1": 71.03174603174604,
+      "q3": 92.1116504854369
+    },
+    "replayabilityStats": {
+      "mean": 32.67604807534835,
+      "median": 19.657615025113074,
+      "stdDev": 29.288697028544554,
+      "min": 10.005694760820045,
+      "max": 100,
+      "q1": 11.736363636363636,
+      "q3": 38.21401077752117
+    }
+  },
+  "difficultyDistribution": {
+    "Très Facile": 100
+  },
+  "difficultyTrends": {
+    "clearRateVsDifficulty": [
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      },
+      {
+        "difficulty": null
+      }
+    ],
+    "engagementVsDifficulty": [
+      {
+        "engagement": 90.1639344262295,
+        "difficulty": null
+      },
+      {
+        "engagement": 85.78878748370273,
+        "difficulty": null
+      },
+      {
+        "engagement": 41.48471615720524,
+        "difficulty": null
+      },
+      {
+        "engagement": 78.5070785070785,
+        "difficulty": null
+      },
+      {
+        "engagement": 93.47133757961782,
+        "difficulty": null
+      },
+      {
+        "engagement": 71.9298245614035,
+        "difficulty": null
+      },
+      {
+        "engagement": 76.77852348993288,
+        "difficulty": null
+      },
+      {
+        "engagement": 12.62135922330097,
+        "difficulty": null
+      },
+      {
+        "engagement": 62.7151051625239,
+        "difficulty": null
+      },
+      {
+        "engagement": 68.28571428571428,
+        "difficulty": null
+      },
+      {
+        "engagement": 97.57575757575758,
+        "difficulty": null
+      },
+      {
+        "engagement": 71.87039764359352,
+        "difficulty": null
+      },
+      {
+        "engagement": 58.06451612903226,
+        "difficulty": null
+      },
+      {
+        "engagement": 77.95275590551181,
+        "difficulty": null
+      },
+      {
+        "engagement": 75.9322033898305,
+        "difficulty": null
+      },
+      {
+        "engagement": 94.64469618949536,
+        "difficulty": null
+      },
+      {
+        "engagement": 32.534246575342465,
+        "difficulty": null
+      },
+      {
+        "engagement": 83.29411764705881,
+        "difficulty": null
+      },
+      {
+        "engagement": 67.04545454545455,
+        "difficulty": null
+      },
+      {
+        "engagement": 93.26923076923077,
+        "difficulty": null
+      },
+      {
+        "engagement": 55.75,
+        "difficulty": null
+      },
+      {
+        "engagement": 82.50444049733571,
+        "difficulty": null
+      },
+      {
+        "engagement": 55.297157622739014,
+        "difficulty": null
+      },
+      {
+        "engagement": 95.36423841059603,
+        "difficulty": null
+      },
+      {
+        "engagement": 81.67330677290838,
+        "difficulty": null
+      },
+      {
+        "engagement": 87.12871287128714,
+        "difficulty": null
+      },
+      {
+        "engagement": 100,
+        "difficulty": null
+      },
+      {
+        "engagement": 88.03149606299212,
+        "difficulty": null
+      },
+      {
+        "engagement": 97.77553083923155,
+        "difficulty": null
+      },
+      {
+        "engagement": 72.2972972972973,
+        "difficulty": null
+      },
+      {
+        "engagement": 86.79446219382322,
+        "difficulty": null
+      },
+      {
+        "engagement": 99.1638795986622,
+        "difficulty": null
+      },
+      {
+        "engagement": 87.56410256410257,
+        "difficulty": null
+      },
+      {
+        "engagement": 46.96969696969697,
+        "difficulty": null
+      },
+      {
+        "engagement": 98.068669527897,
+        "difficulty": null
+      },
+      {
+        "engagement": 79.26796710453743,
+        "difficulty": null
+      },
+      {
+        "engagement": 83.3922261484099,
+        "difficulty": null
+      },
+      {
+        "engagement": 97.78812572759023,
+        "difficulty": null
+      },
+      {
+        "engagement": 10.091743119266056,
+        "difficulty": null
+      },
+      {
+        "engagement": 35.11450381679389,
+        "difficulty": null
+      },
+      {
+        "engagement": 94.28274428274428,
+        "difficulty": null
+      },
+      {
+        "engagement": 82.2262118491921,
+        "difficulty": null
+      },
+      {
+        "engagement": 89.48598130841121,
+        "difficulty": null
+      },
+      {
+        "engagement": 42.03389830508474,
+        "difficulty": null
+      },
+      {
+        "engagement": 71.03174603174604,
+        "difficulty": null
+      },
+      {
+        "engagement": 91.81141439205956,
+        "difficulty": null
+      },
+      {
+        "engagement": 100,
+        "difficulty": null
+      },
+      {
+        "engagement": 13.452914798206278,
+        "difficulty": null
+      },
+      {
+        "engagement": 64.53089244851259,
+        "difficulty": null
+      },
+      {
+        "engagement": 95.94202898550725,
+        "difficulty": null
+      },
+      {
+        "engagement": 96.69421487603306,
+        "difficulty": null
+      },
+      {
+        "engagement": 87.85638859556494,
+        "difficulty": null
+      },
+      {
+        "engagement": 70.44776119402985,
+        "difficulty": null
+      },
+      {
+        "engagement": 83.7890625,
+        "difficulty": null
+      },
+      {
+        "engagement": 96.1926091825308,
+        "difficulty": null
+      },
+      {
+        "engagement": 93.20652173913044,
+        "difficulty": null
+      },
+      {
+        "engagement": 74.8868778280543,
+        "difficulty": null
+      },
+      {
+        "engagement": 59.310344827586206,
+        "difficulty": null
+      },
+      {
+        "engagement": 79.75708502024291,
+        "difficulty": null
+      },
+      {
+        "engagement": 85.22167487684729,
+        "difficulty": null
+      },
+      {
+        "engagement": 90.00989119683481,
+        "difficulty": null
+      },
+      {
+        "engagement": 93.67888748419722,
+        "difficulty": null
+      },
+      {
+        "engagement": 92.80205655526991,
+        "difficulty": null
+      },
+      {
+        "engagement": 73.55371900826447,
+        "difficulty": null
+      },
+      {
+        "engagement": 50.40431266846361,
+        "difficulty": null
+      },
+      {
+        "engagement": 83.37924701561064,
+        "difficulty": null
+      },
+      {
+        "engagement": 82.47126436781609,
+        "difficulty": null
+      },
+      {
+        "engagement": 74.50980392156863,
+        "difficulty": null
+      },
+      {
+        "engagement": 78.4570596797671,
+        "difficulty": null
+      },
+      {
+        "engagement": 84.81166464155528,
+        "difficulty": null
+      },
+      {
+        "engagement": 90.87048832271762,
+        "difficulty": null
+      },
+      {
+        "engagement": 96.67338709677419,
+        "difficulty": null
+      },
+      {
+        "engagement": 50,
+        "difficulty": null
+      },
+      {
+        "engagement": 10.85690283021847,
+        "difficulty": null
+      },
+      {
+        "engagement": 48.333333333333336,
+        "difficulty": null
+      },
+      {
+        "engagement": 97.19934102141681,
+        "difficulty": null
+      },
+      {
+        "engagement": 84.34197886647455,
+        "difficulty": null
+      },
+      {
+        "engagement": 83.90501319261213,
+        "difficulty": null
+      },
+      {
+        "engagement": 55.58194774346793,
+        "difficulty": null
+      },
+      {
+        "engagement": 98.20627802690582,
+        "difficulty": null
+      },
+      {
+        "engagement": 90,
+        "difficulty": null
+      },
+      {
+        "engagement": 57.21925133689839,
+        "difficulty": null
+      },
+      {
+        "engagement": 85.10028653295129,
+        "difficulty": null
+      },
+      {
+        "engagement": 77.67969735182851,
+        "difficulty": null
+      },
+      {
+        "engagement": 77.84810126582279,
+        "difficulty": null
+      },
+      {
+        "engagement": 92.1116504854369,
+        "difficulty": null
+      },
+      {
+        "engagement": 86.1061946902655,
+        "difficulty": null
+      },
+      {
+        "engagement": 75.66718995290424,
+        "difficulty": null
+      },
+      {
+        "engagement": 62.5,
+        "difficulty": null
+      },
+      {
+        "engagement": 95.33762057877814,
+        "difficulty": null
+      },
+      {
+        "engagement": 71.48014440433214,
+        "difficulty": null
+      },
+      {
+        "engagement": 63.78737541528239,
+        "difficulty": null
+      },
+      {
+        "engagement": 99.72222222222223,
+        "difficulty": null
+      },
+      {
+        "engagement": 89.02554399243141,
+        "difficulty": null
+      },
+      {
+        "engagement": 94.4055944055944,
+        "difficulty": null
+      },
+      {
+        "engagement": 89.17576961271102,
+        "difficulty": null
+      },
+      {
+        "engagement": 79.54545454545455,
+        "difficulty": null
+      },
+      {
+        "engagement": 77.16346153846155,
+        "difficulty": null
+      },
+      {
+        "engagement": 83.7037037037037,
+        "difficulty": null
+      },
+      {
+        "engagement": 72.9020979020979,
+        "difficulty": null
+      }
+    ]
+  },
+  "playerBehavior": {
+    "averageAttempts": {
+      "mean": 5075.85,
+      "median": 5324.5,
+      "stdDev": 3010.9220925656637,
+      "min": 147,
+      "max": 10082,
+      "q1": 2474,
+      "q3": 7746
+    },
+    "persistenceRate": {
+      "mean": 6.797152757535896,
+      "median": 1.9657615025113078,
+      "stdDev": 19.869154588214112,
+      "min": 1.0005694760820045,
+      "max": 163.5,
+      "q1": 1.1736363636363636,
+      "q3": 3.821401077752117
+    },
+    "communityEngagement": {
+      "mean": 29.15419188529256,
+      "median": 16.147766085906504,
+      "stdDev": 32.563313295468085,
+      "min": 2.1899736147757256,
+      "max": 184.18560606060606,
+      "q1": 11.509464751958225,
+      "q3": 31.468531468531467
+    }
+  },
+  "correlations": {
+    "difficultyVsEngagement": 0,
+    "difficultyVsReplayability": 0
+  }
+}
